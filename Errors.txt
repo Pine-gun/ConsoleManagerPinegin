@@ -1,0 +1,150 @@
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at FileManager_Chyornyy.Program.CommandInputProcess() in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 99
+   at FileManager_Chyornyy.Program.UpdateConsole() in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 36
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, TypeCode type)
+   at System.Int32.Parse(String s)
+   at FileManager_Chyornyy.Program.CommandParser(StringBuilder command) in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 156
+   at FileManager_Chyornyy.Program.CommandInputProcess() in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 126
+   at FileManager_Chyornyy.Program.UpdateConsole() in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 36
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, TypeCode type)
+   at System.Int32.Parse(String s)
+   at FileManager_Chyornyy.Program.CommandParser(StringBuilder command) in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 156
+   at FileManager_Chyornyy.Program.CommandInputProcess() in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 126
+   at FileManager_Chyornyy.Program.UpdateConsole() in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 36
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at FileManager_Chyornyy.Program.DrawToConsole(Int32 page, String defaultPath) in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 950
+   at FileManager_Chyornyy.Program.CommandParser(StringBuilder command) in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 156
+   at FileManager_Chyornyy.Program.CommandInputProcess() in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 126
+   at FileManager_Chyornyy.Program.UpdateConsole() in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 36
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at FileManager_Chyornyy.Program.DrawToConsole(Int32 page, String defaultPath) in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 950
+   at FileManager_Chyornyy.Program.CommandParser(StringBuilder command) in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 156
+   at FileManager_Chyornyy.Program.CommandInputProcess() in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 126
+   at FileManager_Chyornyy.Program.UpdateConsole() in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 36
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, TypeCode type)
+   at System.Int32.Parse(String s)
+   at FileManager_Chyornyy.Program.CommandParser(StringBuilder command) in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 156
+   at FileManager_Chyornyy.Program.CommandInputProcess() in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 126
+   at FileManager_Chyornyy.Program.UpdateConsole() in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 36
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at FileManager_Chyornyy.Program.DrawToConsole(Int32 page, String defaultPath) in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 950
+   at FileManager_Chyornyy.Program.CommandParser(StringBuilder command) in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 156
+   at FileManager_Chyornyy.Program.CommandInputProcess() in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 126
+   at FileManager_Chyornyy.Program.UpdateConsole() in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 36
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at FileManager_Chyornyy.Program.CommandInputProcess() in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 99
+   at FileManager_Chyornyy.Program.UpdateConsole() in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 36
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at FileManager_Chyornyy.Program.CommandInputProcess() in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 99
+   at FileManager_Chyornyy.Program.UpdateConsole() in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 36
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at FileManager_Chyornyy.Program.CommandInputProcess() in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 106
+   at FileManager_Chyornyy.Program.UpdateConsole() in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 36
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at FileManager_Chyornyy.Program.CommandInputProcess() in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 99
+   at FileManager_Chyornyy.Program.UpdateConsole() in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 36
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at FileManager_Chyornyy.Program.CommandInputProcess() in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 99
+   at FileManager_Chyornyy.Program.UpdateConsole() in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 36
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at FileManager_Chyornyy.Program.CommandInputProcess() in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 99
+   at FileManager_Chyornyy.Program.UpdateConsole() in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 36
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at FileManager_Chyornyy.Program.CommandInputProcess() in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 99
+   at FileManager_Chyornyy.Program.UpdateConsole() in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 36
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at FileManager_Chyornyy.Program.CommandInputProcess() in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 99
+   at FileManager_Chyornyy.Program.UpdateConsole() in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 36
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at FileManager_Chyornyy.Program.CommandInputProcess() in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 99
+   at FileManager_Chyornyy.Program.UpdateConsole() in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 36
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at FileManager_Chyornyy.Program.CommandInputProcess() in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 106
+   at FileManager_Chyornyy.Program.UpdateConsole() in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 36
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at FileManager_Chyornyy.Program.CommandInputProcess() in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 106
+   at FileManager_Chyornyy.Program.UpdateConsole() in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 36
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at FileManager_Chyornyy.Program.CommandInputProcess() in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 106
+   at FileManager_Chyornyy.Program.UpdateConsole() in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 36
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at FileManager_Chyornyy.Program.CommandInputProcess() in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 113
+   at FileManager_Chyornyy.Program.UpdateConsole() in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 36
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at FileManager_Chyornyy.Program.CommandInputProcess() in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 106
+   at FileManager_Chyornyy.Program.UpdateConsole() in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 36
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at FileManager_Chyornyy.Program.CommandInputProcess() in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 107
+   at FileManager_Chyornyy.Program.UpdateConsole() in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 36
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at FileManager_Chyornyy.Program.CommandInputProcess() in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 107
+   at FileManager_Chyornyy.Program.UpdateConsole() in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 36
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at FileManager_Chyornyy.Program.CommandInputProcess() in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 107
+   at FileManager_Chyornyy.Program.UpdateConsole() in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 36
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at FileManager_Chyornyy.Program.CommandInputProcess() in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 120
+   at FileManager_Chyornyy.Program.UpdateConsole() in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 36
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at FileManager_Chyornyy.Program.CommandInputProcess() in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 121
+   at FileManager_Chyornyy.Program.UpdateConsole() in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 36
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at FileManager_Chyornyy.Program.CommandInputProcess() in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 121
+   at FileManager_Chyornyy.Program.UpdateConsole() in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 36
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at FileManager_Chyornyy.Program.CommandInputProcess() in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 121
+   at FileManager_Chyornyy.Program.UpdateConsole() in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 36
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at FileManager_Chyornyy.Program.CommandInputProcess() in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 121
+   at FileManager_Chyornyy.Program.UpdateConsole() in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 36
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at FileManager_Chyornyy.Program.CommandInputProcess() in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 121
+   at FileManager_Chyornyy.Program.UpdateConsole() in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 36
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at FileManager_Chyornyy.Program.CommandInputProcess() in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 121
+   at FileManager_Chyornyy.Program.UpdateConsole() in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 36
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at FileManager_Chyornyy.Program.CommandInputProcess() in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 121
+   at FileManager_Chyornyy.Program.UpdateConsole() in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 36
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at FileManager_Chyornyy.Program.CommandInputProcess() in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 120
+   at FileManager_Chyornyy.Program.UpdateConsole() in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 36
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at FileManager_Chyornyy.Program.CommandParser(StringBuilder command) in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 160
+   at FileManager_Chyornyy.Program.CommandInputProcess() in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 147
+   at FileManager_Chyornyy.Program.UpdateConsole() in D:\Pinegun\ConsoleManagerPinegin\Program.cs:line 36
+
+Index was outside the bounds of the array.
+Index was outside the bounds of the array.
+Index was outside the bounds of the array.
+Index was outside the bounds of the array.
